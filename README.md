@@ -25,10 +25,10 @@ To satisfy the customers and keep the business running, the customers interactio
 
 ## File Descriptions <a name="files"></a>
 
-	- One notebook file `Starbucks_Capstone_notebook.ipynb` which contains the code. 
-	- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-	- profile.json - demographic data for each customer
-	- transcript.json - records for transactions, offers received, offers viewed, and offers completed. This file is zipped because it is big. 
+- One notebook file `Starbucks_Capstone_notebook.ipynb` which contains the code. 
+- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+- profile.json - demographic data for each customer
+- transcript.json - records for transactions, offers received, offers viewed, and offers completed. This file is zipped because it is big. 
 
 
 ## Results<a name="results"></a>
